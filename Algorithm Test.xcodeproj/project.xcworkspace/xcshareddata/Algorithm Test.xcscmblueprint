@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "39C38B3B0D628A6B67127C259DB57BFC3501642A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "39C38B3B0D628A6B67127C259DB57BFC3501642A" : 9223372036854775807,
+    "2B7C653619063FBBCF2163BD4321BB182CEA47D8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A7B09ADC-69EB-404A-9278-707E3F26D529",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "39C38B3B0D628A6B67127C259DB57BFC3501642A" : "Algorithm-Test\/",
+    "2B7C653619063FBBCF2163BD4321BB182CEA47D8" : "LinearWarp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Algorithm Test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Algorithm Test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.autodesk.com\/t-wangju\/LinearWarp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2B7C653619063FBBCF2163BD4321BB182CEA47D8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/asawanggaa\/Algorithm-Test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "39C38B3B0D628A6B67127C259DB57BFC3501642A"
+    }
+  ]
+}

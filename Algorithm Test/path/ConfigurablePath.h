@@ -127,8 +127,8 @@ public:
             
             float dis = sqrtf((cx-nx)*(cx-nx) + (cy-ny)*(cy-ny));
             
-            if(dis > segSize)
-//			if(true)
+//            if(dis > segSize)
+			if(true)
             {
                 // insert more points between cur and next
                 int nNewPoints = dis / segSize;
